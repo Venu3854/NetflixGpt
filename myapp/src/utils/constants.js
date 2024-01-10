@@ -8,3 +8,5 @@ export const MOVIE_OPTIONS = {
       "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzYTNiNjM1M2VjYzdiODA0NDE5ZTk5YmM5MmVkY2NkNSIsInN1YiI6IjY1OWNkYWJlYzQ5MDQ4MDI1OGFlNTQ4ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.oubViw6ueJphqbb4giNDGoIkMCb7BphP6FOUaNbQIfY",
   },
 };
+
+export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w400/";
